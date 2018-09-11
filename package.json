@@ -1,0 +1,26 @@
+{
+  "name": "cuaca",
+  "version": "1.0.0",
+  "description": "Belajar Membuat Web Sederhana  Cuaca melalui Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andipyk/-node-cuaca.git"
+  },
+  "keywords": [
+    "node",
+    "cuaca"
+  ],
+  "author": "Andi Syafrianda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andipyk/-node-cuaca/issues"
+  },
+  "homepage": "https://github.com/andipyk/-node-cuaca#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
